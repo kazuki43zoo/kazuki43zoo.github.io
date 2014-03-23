@@ -1,2 +1,2 @@
-kazuki43zoo.github.com
+kazuki43zoo.github.io
 ======================
